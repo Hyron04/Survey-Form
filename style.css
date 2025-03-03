@@ -1,3 +1,4 @@
+/* Set the font family, background color, margin, and padding for the body */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -5,6 +6,7 @@ body {
     padding: 0;
 }
 
+/* Style the container div */
 #container {
     width: 80%;
     margin: 0 auto;
@@ -13,6 +15,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Style the header section */
 #header {
     text-align: center;
     padding: 20px 0;
@@ -20,6 +23,7 @@ body {
     color: #fff;
 }
 
+/* Style the navigation bar */
 #nav-bar ul {
     list-style-type: none;
     padding: 0;
@@ -36,29 +40,35 @@ body {
     font-weight: bold;
 }
 
+/* Add hover effect to navigation links */
 #nav-bar ul li a:hover {
     text-decoration: underline;
 }
 
+/* Style the headings */
 h1, h2 {
     color: #333;
 }
 
+/* Style the description paragraph */
 #description {
     font-size: 1.2em;
     margin-bottom: 20px;
 }
 
+/* Style the form class of groups */
 .form-group {
     margin-bottom: 20px;
 }
 
+/* Style the labels */
 label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
 }
 
+/* Style the input, select, and textarea elements */
 input[type="text"], input[type="email"], input[type="number"], select, textarea {
     width: 90%;
     padding: 10px;
@@ -67,10 +77,12 @@ input[type="text"], input[type="email"], input[type="number"], select, textarea 
     border-radius: 5px;
 }
 
+/* Style the radio and checkbox inputs */
 input[type="radio"], input[type="checkbox"] {
     margin-right: 10px;
 }
 
+/* Style the submit button */
 input[type="submit"] {
     background-color: #007BFF;
     color: #fff;
@@ -81,15 +93,18 @@ input[type="submit"] {
     font-size: 1em;
 }
 
+/* Add hover effect to the submit button */
 input[type="submit"]:hover {
     background-color: #0056b3;
 }
 
+/* Style the focus state for input, select, and textarea elements */
 input:focus, select:focus, textarea:focus {
     outline: 2px solid #0056b3;
     outline-offset: 2px;
 }
 
+/* Style the footer */
 footer {
     text-align: center;
     padding: 20px 0;
@@ -98,11 +113,13 @@ footer {
     margin-top: 20px;
 }
 
+/* Style the footer links */
 footer a {
     color: #fff;
     text-decoration: none;
 }
 
+/* Add hover effect to the footer links */
 footer a:hover {
     text-decoration: underline;
 }
