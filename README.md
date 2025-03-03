@@ -39,6 +39,9 @@ Follow these steps to set up the project on your local machine:
 
 - [index.html](http://_vscodecontentref_/4): The main HTML file containing the survey form.
 - [style.css](http://_vscodecontentref_/5): The CSS file for styling the survey form.
+- [images/]: A directory containing images used in the project, including the main image and the favicon.
+
+- 
 
 ### Customization
 
@@ -59,13 +62,11 @@ If you would like to contribute to this project, please follow these steps:
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
 
-### Contact
+## Acknowledgements
 
-If you have any questions or suggestions, feel free to contact us at:
-- Email: [travel-survey@example.com](mailto:travel-survey@example.com)
-- Phone: [+1 234 567 890](tel:+1234567890)
-- Address: [123 Travel St, Madrid, Spain](https://www.google.com/maps/search/?api=1&query=123+Travel+St,+Madrid,+Spain)
+- The image and icon used in the project are from [Freepik] (https://www.freepik.es/foto-gratis/mujer-toma-foto-montanas-fuji-otono-japon-concepto-viaje_10695376.htm#fromView=search&page=2&position=31&uuid=11bd7cf4-a343-4007-ade9-fcfcb5e7cc45&query=travel)
+
 
 Thank you for your interest in our travel survey form!
